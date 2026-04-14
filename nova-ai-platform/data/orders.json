@@ -1,0 +1,113 @@
+[
+  {
+    "order_id": "ORD-2024-10001",
+    "customer_id": "CUST-5001",
+    "customer_name": "Sarah Mitchell",
+    "customer_email": "sarah.mitchell@email.com",
+    "items": [
+      {"product_id": "PRD-001", "name": "Silk Radiance Foundation", "shade": "Warm Beige", "qty": 1, "price": 42.00},
+      {"product_id": "PRD-002", "name": "Velvet Matte Lipstick", "shade": "Nude Ambition", "qty": 2, "price": 28.00}
+    ],
+    "total": 98.00,
+    "status": "delivered",
+    "order_date": "2024-12-15",
+    "delivery_date": "2024-12-20",
+    "shipping_address": "123 Maple Street, Brooklyn, NY 11201",
+    "tracking_number": "TRK-8871234567",
+    "payment_method": "Visa ending 4242",
+    "return_eligible": true,
+    "return_deadline": "2025-01-20"
+  },
+  {
+    "order_id": "ORD-2024-10002",
+    "customer_id": "CUST-5002",
+    "customer_name": "James Rodriguez",
+    "customer_email": "james.r@email.com",
+    "items": [
+      {"product_id": "PRD-003", "name": "Cloud Comfort Sneakers", "size": "10", "color": "Cloud White", "qty": 1, "price": 129.00}
+    ],
+    "total": 129.00,
+    "status": "shipped",
+    "order_date": "2024-12-28",
+    "estimated_delivery": "2025-01-03",
+    "shipping_address": "456 Oak Avenue, Austin, TX 78701",
+    "tracking_number": "TRK-8879876543",
+    "payment_method": "Mastercard ending 8888",
+    "return_eligible": false,
+    "return_deadline": null
+  },
+  {
+    "order_id": "ORD-2024-10003",
+    "customer_id": "CUST-5003",
+    "customer_name": "Emily Chen",
+    "customer_email": "emily.chen@email.com",
+    "items": [
+      {"product_id": "PRD-005", "name": "The Perfect Blazer", "size": "S", "color": "Classic Black", "qty": 1, "price": 189.00},
+      {"product_id": "PRD-009", "name": "Leather Crossbody Bag", "color": "Cognac", "qty": 1, "price": 165.00}
+    ],
+    "total": 354.00,
+    "status": "processing",
+    "order_date": "2024-12-30",
+    "estimated_delivery": "2025-01-07",
+    "shipping_address": "789 Pine Road, San Francisco, CA 94102",
+    "tracking_number": null,
+    "payment_method": "Apple Pay",
+    "return_eligible": false,
+    "return_deadline": null
+  },
+  {
+    "order_id": "ORD-2024-10004",
+    "customer_id": "CUST-5001",
+    "customer_name": "Sarah Mitchell",
+    "customer_email": "sarah.mitchell@email.com",
+    "items": [
+      {"product_id": "PRD-004", "name": "Glow-Up Vitamin C Serum", "qty": 1, "price": 56.00},
+      {"product_id": "PRD-010", "name": "Hydra-Boost Moisturizer", "qty": 1, "price": 48.00}
+    ],
+    "total": 104.00,
+    "status": "delivered",
+    "order_date": "2024-11-20",
+    "delivery_date": "2024-11-25",
+    "shipping_address": "123 Maple Street, Brooklyn, NY 11201",
+    "tracking_number": "TRK-8872345678",
+    "payment_method": "Visa ending 4242",
+    "return_eligible": false,
+    "return_deadline": "2024-12-25"
+  },
+  {
+    "order_id": "ORD-2024-10005",
+    "customer_id": "CUST-5004",
+    "customer_name": "Aisha Johnson",
+    "customer_email": "aisha.j@email.com",
+    "items": [
+      {"product_id": "PRD-007", "name": "Cashmere Lounge Set", "size": "M/L", "color": "Dusty Lavender", "qty": 1, "price": 245.00},
+      {"product_id": "PRD-006", "name": "Dewy Setting Spray", "qty": 1, "price": 24.00}
+    ],
+    "total": 269.00,
+    "status": "delivered",
+    "order_date": "2024-12-10",
+    "delivery_date": "2024-12-15",
+    "shipping_address": "321 Elm Boulevard, Chicago, IL 60614",
+    "tracking_number": "TRK-8873456789",
+    "payment_method": "PayPal",
+    "return_eligible": true,
+    "return_deadline": "2025-01-15"
+  },
+  {
+    "order_id": "ORD-2024-10006",
+    "customer_id": "CUST-5005",
+    "customer_name": "Marcus Lee",
+    "customer_email": "marcus.lee@email.com",
+    "items": [
+      {"product_id": "PRD-003", "name": "Cloud Comfort Sneakers", "size": "9.5", "color": "Midnight Black", "qty": 1, "price": 129.00}
+    ],
+    "total": 129.00,
+    "status": "cancelled",
+    "order_date": "2024-12-18",
+    "cancellation_date": "2024-12-19",
+    "cancellation_reason": "Customer requested cancellation - found better price elsewhere",
+    "payment_method": "Visa ending 1234",
+    "return_eligible": false,
+    "return_deadline": null
+  }
+]

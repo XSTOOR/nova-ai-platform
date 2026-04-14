@@ -1,0 +1,28 @@
+graph TD
+    START([Customer Message]) --> Triage
+    
+    Triage -->|Injection Blocked| Respond
+    Triage -->|order_status, return_refund, loyalty| Support
+    Triage -->|product_inquiry| Recommendation
+    Triage -->|Low Confidence| EscalationCheck
+    
+    Support --> EscalationCheck
+    Recommendation --> EscalationCheck
+    
+    EscalationCheck -->|Escalation Needed| EscalationCreate
+    EscalationCheck -->|No Escalation| Respond
+    
+    EscalationCreate --> Respond
+    Respond --> END([Customer Response])
+    
+    classDef triage fill:#FF6B6B,stroke:#C0392B,color:#fff
+    classDef support fill:#4ECDC4,stroke:#16A085,color:#fff
+    classDef recommend fill:#45B7D1,stroke:#2980B9,color:#fff
+    classDef escalate fill:#F9CA24,stroke:#F39C12,color:#000
+    classDef respond fill:#6C5CE7,stroke:#5B2C6F,color:#fff
+    
+    class Triage triage
+    class Support support
+    class Recommendation recommend
+    class EscalationCheck,EscalationCreate escalate
+    class Respond respond

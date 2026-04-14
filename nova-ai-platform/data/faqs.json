@@ -1,0 +1,86 @@
+[
+  {
+    "id": "FAQ-001",
+    "category": "Orders",
+    "question": "How do I track my order?",
+    "answer": "You can track your order by logging into your NOVA account and navigating to 'My Orders'. Click on the specific order to see real-time tracking updates. You'll also receive email notifications with tracking links once your order ships. If you have your tracking number, you can also check directly on the carrier's website.",
+    "keywords": ["track", "order", "shipping", "tracking number", "delivery status"]
+  },
+  {
+    "id": "FAQ-002",
+    "category": "Returns",
+    "question": "What is NOVA's return policy?",
+    "answer": "NOVA offers a 30-day return policy from the date of delivery. Items must be unused, in original packaging, and with all tags attached. Beauty products must be unopened for full refund. Sale items are eligible for exchange or store credit only. To initiate a return, visit 'My Orders' in your account or contact our support team.",
+    "keywords": ["return", "refund", "exchange", "return policy", "30 days"]
+  },
+  {
+    "id": "FAQ-003",
+    "category": "Shipping",
+    "question": "How long does shipping take?",
+    "answer": "Standard shipping takes 3-5 business days within the US. Express shipping (2-3 business days) is available for $9.99. Overnight shipping is available for $19.99. International shipping takes 7-14 business days depending on the destination. Free standard shipping on all orders over $75.",
+    "keywords": ["shipping", "delivery time", "express", "overnight", "international"]
+  },
+  {
+    "id": "FAQ-004",
+    "category": "Products",
+    "question": "Are NOVA beauty products cruelty-free?",
+    "answer": "Yes! All NOVA beauty products are 100% cruelty-free and never tested on animals. We are Leaping Bunny certified. Many of our products are also vegan — look for the 'Vegan' badge on individual product pages. We believe in beauty without cruelty.",
+    "keywords": ["cruelty-free", "vegan", "animal testing", "leaping bunny"]
+  },
+  {
+    "id": "FAQ-005",
+    "category": "Loyalty",
+    "question": "How does the NOVA Rewards program work?",
+    "answer": "NOVA Rewards is our loyalty program where you earn points on every purchase. Earn 1 point per $1 spent. Points can be redeemed for discounts: 100 points = $5 off, 250 points = $15 off, 500 points = $35 off. Members also get early access to new collections, exclusive sale events, and a birthday surprise! Join automatically with your first purchase.",
+    "keywords": ["rewards", "loyalty", "points", "perks", "membership"]
+  },
+  {
+    "id": "FAQ-006",
+    "category": "Orders",
+    "question": "Can I change or cancel my order after placing it?",
+    "answer": "You can modify or cancel your order within 1 hour of placing it by contacting our support team. After that, we begin processing and changes may not be possible. If your order hasn't shipped yet, we'll do our best to accommodate changes. Once shipped, the order cannot be cancelled but you can initiate a return after delivery.",
+    "keywords": ["cancel", "modify", "change order", "edit order"]
+  },
+  {
+    "id": "FAQ-007",
+    "category": "Products",
+    "question": "How do I find the right shade for my skin tone?",
+    "answer": "Use our AI-powered Shade Finder tool on any foundation or concealer product page. Upload a selfie or answer a few questions about your skin tone, and we'll recommend your perfect match. You can also visit any NOVA retail location for a complimentary shade matching session. We also offer free samples with any beauty order!",
+    "keywords": ["shade", "skin tone", "color match", "foundation shade", "concealer match"]
+  },
+  {
+    "id": "FAQ-008",
+    "category": "Shipping",
+    "question": "Do you ship internationally?",
+    "answer": "Yes! NOVA ships to over 50 countries worldwide. International shipping rates vary by destination and package weight. Standard international delivery takes 7-14 business days. Please note that customs duties and taxes may apply and are the responsibility of the recipient. Check our shipping page for the full list of countries.",
+    "keywords": ["international", "shipping", "customs", "duties", "worldwide"]
+  },
+  {
+    "id": "FAQ-009",
+    "category": "Returns",
+    "question": "How do I return a beauty product I'm allergic to?",
+    "answer": "If you experience an allergic reaction to any NOVA product, please discontinue use immediately and contact our support team. We offer a full refund or exchange for allergic reactions, even if the product has been opened. Please provide your order number and a brief description of the reaction. Your safety and satisfaction are our top priority.",
+    "keywords": ["allergic", "allergy", "reaction", "sensitive", "irritation"]
+  },
+  {
+    "id": "FAQ-010",
+    "category": "Products",
+    "question": "What ingredients are in NOVA skincare products?",
+    "answer": "Full ingredient lists are available on each product page under the 'Ingredients' tab. NOVA formulates without parabens, sulfates, phthalates, and synthetic fragrances. We prioritize clean, effective ingredients backed by science. Our formulations are dermatologist-tested and suitable for sensitive skin unless otherwise noted on the product.",
+    "keywords": ["ingredients", "clean", "paraben-free", "sulfate-free", "formulation"]
+  },
+  {
+    "id": "FAQ-011",
+    "category": "Loyalty",
+    "question": "What are the NOVA Rewards tiers?",
+    "answer": "NOVA Rewards has three tiers: Bronze (0-499 points/year) — standard earning rate, birthday reward, and sale access. Silver (500-1499 points/year) — 1.5x earning rate, free express shipping, and early access to new drops. Gold (1500+ points/year) — 2x earning rate, free overnight shipping, personal styling session, and exclusive events.",
+    "keywords": ["tier", "bronze", "silver", "gold", "vip", "status"]
+  },
+  {
+    "id": "FAQ-012",
+    "category": "Products",
+    "question": "Are NOVA fashion items sustainable?",
+    "answer": "Sustainability is core to NOVA. Our fashion line uses responsibly sourced materials including organic cotton, recycled polyester, and ethically produced cashmere. We partner with certified factories that ensure fair wages and safe working conditions. Our packaging is 100% recyclable. We're committed to becoming fully carbon neutral by 2026.",
+    "keywords": ["sustainable", "eco-friendly", "organic", "recycled", "carbon neutral", "ethical"]
+  }
+]
